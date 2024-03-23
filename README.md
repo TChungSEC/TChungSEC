@@ -11,6 +11,8 @@
 <h2> Certifications:</h2>
 
 [Google Cybersecurity Professional](https://coursera.org/share/26fe7ec252445b42ca6da81142defdcd)
+FEMA National Incident Management System (NIMS): ICS-100
+Qualys Vulnerability Management
 
 <h2> 🤳 Connect with me:</h2>
 
