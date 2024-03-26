@@ -3,7 +3,7 @@
   ## Brief Introduction
 Cyber security initate looking to break into the field. Possesses a passion for learning new things and solving complex problems. Highly adaptive and always seeking new challenges.
 
-## Objective 
+  ## ☑️ Objective 
 After witnessess countless cyber attacks and even being victim to my own PII being stolen, I have aquired an interest in this growing field. I am eager to transition into cybersec, specifically as a SOC (security operations center) analyst. My ultimate goal is to someday become a pentester, specifically in the physical domain.
 
 
@@ -14,8 +14,53 @@ After witnessess countless cyber attacks and even being victim to my own PII bei
   - [Live SIEM attack simulation](https://github.com/TChungSEC/LINKHERE)
 - <b>Active Directory Home lab</b>
   - [Active Directory Lab link](https://github.com/TchungSEC/LINKHERE)
+ 
+ ## 🔑 Skills
 
-<h2> Certifications</h2>
+  Active Directory
+  
+  MS Azure
+   
+  Splunk
+  
+  MS Sentinel
+  
+  Google Chronicle
+  
+  Kali Linux
+  
+  Bash
+  
+  Powershell
+  
+  SQL
+  
+  Python
+  
+  Wireshark
+  
+  Burpsuite
+  
+  Qualys
+  
+  Nessus
+  
+  Suricata
+  
+  netscan
+  
+  metasploit
+  
+  tcpdump
+  
+  MS office suite
+  
+  VMware
+  
+  Oraclebox
+  
+
+<h2>📃 Certifications</h2>
 
 [Google Cybersecurity Professional](https://coursera.org/share/26fe7ec252445b42ca6da81142defdcd)
 
