@@ -1,6 +1,13 @@
 <h1>Hi, I'm TChung, <br/><a href="https://github.com/Tchungsec">Cyber Security Analyst</a>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+  ## Brief Introduction
+Cyber security initate looking to break into the field. Possesses a passion for learning new things and solving complex problems. Highly adaptive and always seeking new challenges.
+
+## Objective 
+After witnessess countless cyber attacks and even being victim to my own PII being stolen, I have aquired an interest in this growing field. I am eager to transition into cybersec, specifically as a SOC (security operations center) analyst. My ultimate goal is to someday become a pentester, specifically in the physical domain.
+
+
+<h2>👨‍💻 Cyber Security Projects</h2>
 
 
 - <b>Azure Live Attack Map lab</b>
@@ -8,10 +15,12 @@
 - <b>Active Directory Home lab</b>
   - [Active Directory Lab link](https://github.com/TchungSEC/LINKHERE)
 
-<h2> Certifications:</h2>
+<h2> Certifications</h2>
 
 [Google Cybersecurity Professional](https://coursera.org/share/26fe7ec252445b42ca6da81142defdcd)
+
 FEMA National Incident Management System (NIMS): ICS-100
+
 Qualys Vulnerability Management
 
 <h2> 🤳 Connect with me:</h2>
