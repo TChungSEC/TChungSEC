@@ -1,6 +1,6 @@
 <h1>Hi, I'm TChung, <br/><a href="https://github.com/Tchungsec">Cyber Security Analyst</a>
 
-  ## Brief Introduction
+  ## 💬 Brief Introduction
 Cyber security initate looking to break into the field. Possesses a passion for learning new things and solving complex problems. Highly adaptive and always seeking new challenges.
 
   ## ☑️ Objective 
@@ -68,7 +68,7 @@ FEMA National Incident Management System (NIMS): ICS-100
 
 Qualys Vulnerability Management
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 👋 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
