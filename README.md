@@ -64,6 +64,8 @@ After witnessess countless cyber attacks and even being victim to my own PII bei
 
 [Google Cybersecurity Professional](https://coursera.org/share/26fe7ec252445b42ca6da81142defdcd)
 
+[Google IT Support Professional](https://coursera.org/share/bd598c7ca86d300fbc005b30aec80e1a)
+
 FEMA National Incident Management System (NIMS): ICS-100
 
 Qualys Vulnerability Management
