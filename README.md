@@ -38,6 +38,8 @@ After witnessess countless cyber attacks and even being victim to my own PII bei
   Python
   
   Wireshark
+
+  tcpdump
   
   Burpsuite
   
@@ -51,7 +53,7 @@ After witnessess countless cyber attacks and even being victim to my own PII bei
   
   metasploit
   
-  tcpdump
+  PuTTY
   
   MS office suite
   
