@@ -18,27 +18,49 @@ After witnessess countless cyber attacks and even being victim to my own PII bei
  ## 🔑 Skills
 
 Active Directory
-MS Azure 
+
+MS Azure
+
 MS Sentinel
+
 Google Chronicle
+
 Splunk
+
 Qualys
+
 Nessus
+
 Atomic Red Team
+
 PowerShell
+
 Python
+
 Bash
+
 SQL
+
 Kali Linux
+
 Wireshark
+
 tcpdump
+
 Burpsuite
+
 Metasploit
+
 Suricata
+
 netscan
+
 PuTTY
+
 VMware
+
 Oracle VirtualBox
+
 MS Office Suite
 
 <h2>📃 Certifications</h2>
