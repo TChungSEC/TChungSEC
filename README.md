@@ -13,7 +13,7 @@ After witnessess countless cyber attacks and even being victim to my own PII bei
 - <b>Azure Live Attack Map lab</b>
   - [Live SIEM attack simulation](https://github.com/TChungSEC/Azure_Sentinel_VM_SIEM_Map/tree/main)
 - <b>Active Directory Home lab</b>
-  - [Active Directory Lab link](https://github.com/TchungSEC/LINKHERE)
+  - [Active Directory Lab link](https://github.com/TChungSEC/Active-Directory-Splunk-Lab)
  
  ## 🔑 Skills
 
