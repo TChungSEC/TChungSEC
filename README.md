@@ -21,11 +21,13 @@ After witnessess countless cyber attacks and even being victim to my own PII bei
   
   MS Azure
    
-  Splunk
+  Splunk 
   
   MS Sentinel
   
   Google Chronicle
+
+  Atomic Red Team
   
   Kali Linux
   
@@ -60,7 +62,6 @@ After witnessess countless cyber attacks and even being victim to my own PII bei
   VMware
   
   Oraclebox
-  
 
 <h2>📃 Certifications</h2>
 
