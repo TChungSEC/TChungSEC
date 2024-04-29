@@ -43,6 +43,8 @@ SQL
 
 Kali Linux
 
+nmap
+
 Wireshark
 
 tcpdump
