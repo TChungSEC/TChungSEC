@@ -71,6 +71,8 @@ MS Office Suite
 
 Splunk Core Certified User
 
+Azure Fundamentals (AZ-900)
+
 FEMA National Incident Management System (NIMS): ICS-100
 
 Qualys Vulnerability Management
