@@ -4,7 +4,7 @@
 Cyber security initate looking to break into the field. Possesses a passion for learning new things and solving complex problems. Highly adaptive and always seeking new challenges.
 
   ## ☑️ Objective 
-After witnessess countless cyber attacks and even being victim to my own PII being stolen, I have aquired an interest in this growing field. I am eager to transition into cybersec, specifically as a SOC (security operations center) analyst. My ultimate goal is to someday become a pentester, specifically as an on-site, phyiscal pentester. 
+After witnessess countless cyber attacks and even being victim to my own PII being stolen, I have aquired an interest in this growing field. I am eager to transition into cybersecurity, specificially as a SOC or Security Analyst. My ultimate goal is to someday become a pentester, specifically as an on-site, phyiscal pentester. 
 
 
 <h2>👨‍💻 Cyber Security Projects</h2>
@@ -87,7 +87,7 @@ Qualys Vulnerability Management
 
 [twitter]: https://twitter.com/Tao_Sec
 [instagram]: https://www.instagram.com/kdoed/
-[linkedin]: https://linkedin.com/in/FILLHERE
+[linkedin]: https://linkedin.com/in/keenan-doederlein-005383306/
 
 <!--
 **TChungSEC/TChungSEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
