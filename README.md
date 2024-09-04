@@ -4,7 +4,7 @@
 Cyber security professional. Possesses a passion for learning new things and solving complex problems. Highly adaptive and always seeking new challenges.
 
   ## ☑️ Objective 
-After witnessess countless cyber attacks and even being victim to my own PII being stolen, I am committed to safeguarding digital information. 
+This is where I showcase some of my personal labs and projects I have worked on.
 
 
 <h2>👨‍💻 Cyber Security Projects</h2>
