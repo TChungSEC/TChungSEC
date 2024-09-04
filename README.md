@@ -69,13 +69,13 @@ MS Office Suite
 
 CompTIA Security+
 
-[Google Cybersecurity Professional](https://coursera.org/share/26fe7ec252445b42ca6da81142defdcd)
-
-[Google IT Support Professional](https://coursera.org/share/bd598c7ca86d300fbc005b30aec80e1a)
+Azure Fundamentals (AZ-900)
 
 Splunk Core Certified User
 
-Azure Fundamentals (AZ-900)
+[Google Cybersecurity Professional](https://coursera.org/share/26fe7ec252445b42ca6da81142defdcd)
+
+[Google IT Support Professional](https://coursera.org/share/bd598c7ca86d300fbc005b30aec80e1a)
 
 FEMA National Incident Management System (NIMS): ICS-100
 
