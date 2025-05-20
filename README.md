@@ -1,4 +1,4 @@
-<h1>Hi, I'm Keenan, <br/><a href="https://github.com/Tchungsec">Cyber Security Analyst</a>
+<h1>Hi, I'm Keenan, <br/><a href="https://github.com/Tchungsec"></a>
 
   ## 💬 Brief Introduction
 Cyber security professional. Possesses a passion for learning new things and solving complex problems. Highly adaptive and always seeking new challenges.
